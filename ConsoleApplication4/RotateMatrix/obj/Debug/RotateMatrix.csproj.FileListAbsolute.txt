@@ -1,0 +1,6 @@
+C:\Users\darshil.hirpara\Documents\Visual Studio 2015\Projects\ConsoleApplication4\RotateMatrix\bin\Debug\RotateMatrix.exe.config
+C:\Users\darshil.hirpara\Documents\Visual Studio 2015\Projects\ConsoleApplication4\RotateMatrix\bin\Debug\RotateMatrix.exe
+C:\Users\darshil.hirpara\Documents\Visual Studio 2015\Projects\ConsoleApplication4\RotateMatrix\bin\Debug\RotateMatrix.pdb
+C:\Users\darshil.hirpara\Documents\Visual Studio 2015\Projects\ConsoleApplication4\RotateMatrix\obj\Debug\RotateMatrix.csprojResolveAssemblyReference.cache
+C:\Users\darshil.hirpara\Documents\Visual Studio 2015\Projects\ConsoleApplication4\RotateMatrix\obj\Debug\RotateMatrix.exe
+C:\Users\darshil.hirpara\Documents\Visual Studio 2015\Projects\ConsoleApplication4\RotateMatrix\obj\Debug\RotateMatrix.pdb

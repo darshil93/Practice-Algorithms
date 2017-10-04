@@ -1,0 +1,3 @@
+C:\Users\darshil.hirpara\Desktop\Darshil Old System\Projects\ConsoleApplication4\ConsoleApplication13\bin\Debug\ConsoleApplication13.exe.config
+C:\Users\darshil.hirpara\Desktop\Darshil Old System\Projects\ConsoleApplication4\ConsoleApplication13\obj\Debug\ConsoleApplication13.exe
+C:\Users\darshil.hirpara\Desktop\Darshil Old System\Projects\ConsoleApplication4\ConsoleApplication13\obj\Debug\ConsoleApplication13.pdb

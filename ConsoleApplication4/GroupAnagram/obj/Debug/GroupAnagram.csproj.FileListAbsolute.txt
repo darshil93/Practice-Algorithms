@@ -1,0 +1,6 @@
+C:\Users\darshil.hirpara\Documents\Visual Studio 2015\Projects\ConsoleApplication4\GroupAnagram\bin\Debug\GroupAnagram.exe.config
+C:\Users\darshil.hirpara\Documents\Visual Studio 2015\Projects\ConsoleApplication4\GroupAnagram\bin\Debug\GroupAnagram.exe
+C:\Users\darshil.hirpara\Documents\Visual Studio 2015\Projects\ConsoleApplication4\GroupAnagram\bin\Debug\GroupAnagram.pdb
+C:\Users\darshil.hirpara\Documents\Visual Studio 2015\Projects\ConsoleApplication4\GroupAnagram\obj\Debug\GroupAnagram.exe
+C:\Users\darshil.hirpara\Documents\Visual Studio 2015\Projects\ConsoleApplication4\GroupAnagram\obj\Debug\GroupAnagram.pdb
+C:\Users\darshil.hirpara\Documents\Visual Studio 2015\Projects\ConsoleApplication4\GroupAnagram\obj\Debug\GroupAnagram.csprojResolveAssemblyReference.cache

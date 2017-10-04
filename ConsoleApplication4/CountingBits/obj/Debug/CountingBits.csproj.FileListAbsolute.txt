@@ -1,0 +1,5 @@
+C:\Users\darshil.hirpara\Desktop\Darshil Old System\Projects\ConsoleApplication4\CountingBits\bin\Debug\CountingBits.exe.config
+C:\Users\darshil.hirpara\Desktop\Darshil Old System\Projects\ConsoleApplication4\CountingBits\bin\Debug\CountingBits.exe
+C:\Users\darshil.hirpara\Desktop\Darshil Old System\Projects\ConsoleApplication4\CountingBits\bin\Debug\CountingBits.pdb
+C:\Users\darshil.hirpara\Desktop\Darshil Old System\Projects\ConsoleApplication4\CountingBits\obj\Debug\CountingBits.exe
+C:\Users\darshil.hirpara\Desktop\Darshil Old System\Projects\ConsoleApplication4\CountingBits\obj\Debug\CountingBits.pdb

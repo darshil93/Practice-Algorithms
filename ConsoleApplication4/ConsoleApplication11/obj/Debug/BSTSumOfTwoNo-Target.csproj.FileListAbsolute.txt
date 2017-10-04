@@ -1,0 +1,6 @@
+C:\Users\darshil.hirpara\Documents\Visual Studio 2015\Projects\ConsoleApplication4\ConsoleApplication11\bin\Debug\ConsoleApplication11.exe.config
+C:\Users\darshil.hirpara\Documents\Visual Studio 2015\Projects\ConsoleApplication4\ConsoleApplication11\bin\Debug\ConsoleApplication11.exe
+C:\Users\darshil.hirpara\Documents\Visual Studio 2015\Projects\ConsoleApplication4\ConsoleApplication11\bin\Debug\ConsoleApplication11.pdb
+C:\Users\darshil.hirpara\Documents\Visual Studio 2015\Projects\ConsoleApplication4\ConsoleApplication11\obj\Debug\BSTSumOfTwoNo-Target.csprojResolveAssemblyReference.cache
+C:\Users\darshil.hirpara\Documents\Visual Studio 2015\Projects\ConsoleApplication4\ConsoleApplication11\obj\Debug\ConsoleApplication11.exe
+C:\Users\darshil.hirpara\Documents\Visual Studio 2015\Projects\ConsoleApplication4\ConsoleApplication11\obj\Debug\ConsoleApplication11.pdb

@@ -1,0 +1,9 @@
+C:\Users\darshil.hirpara\Documents\Visual Studio 2015\Projects\ConsoleApplication4\Amazon\bin\Debug\Amazon.exe.config
+C:\Users\darshil.hirpara\Documents\Visual Studio 2015\Projects\ConsoleApplication4\Amazon\bin\Debug\Amazon.exe
+C:\Users\darshil.hirpara\Documents\Visual Studio 2015\Projects\ConsoleApplication4\Amazon\bin\Debug\Amazon.pdb
+C:\Users\darshil.hirpara\Documents\Visual Studio 2015\Projects\ConsoleApplication4\Amazon\obj\Debug\Amazon.csprojResolveAssemblyReference.cache
+C:\Users\darshil.hirpara\Documents\Visual Studio 2015\Projects\ConsoleApplication4\Amazon\obj\Debug\Amazon.exe
+C:\Users\darshil.hirpara\Documents\Visual Studio 2015\Projects\ConsoleApplication4\Amazon\obj\Debug\Amazon.pdb
+C:\Users\darshil.hirpara\Desktop\Darshil Old System\Projects\ConsoleApplication4\Amazon\bin\Debug\Amazon.exe.config
+C:\Users\darshil.hirpara\Desktop\Darshil Old System\Projects\ConsoleApplication4\Amazon\obj\Debug\Amazon.exe
+C:\Users\darshil.hirpara\Desktop\Darshil Old System\Projects\ConsoleApplication4\Amazon\obj\Debug\Amazon.pdb

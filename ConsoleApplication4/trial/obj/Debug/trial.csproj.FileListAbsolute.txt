@@ -1,0 +1,6 @@
+C:\Users\darshil.hirpara\Desktop\Darshil Old System\Projects\ConsoleApplication4\trial\bin\Debug\trial.exe.config
+C:\Users\darshil.hirpara\Desktop\Darshil Old System\Projects\ConsoleApplication4\trial\bin\Debug\trial.exe
+C:\Users\darshil.hirpara\Desktop\Darshil Old System\Projects\ConsoleApplication4\trial\bin\Debug\trial.pdb
+C:\Users\darshil.hirpara\Desktop\Darshil Old System\Projects\ConsoleApplication4\trial\obj\Debug\trial.csprojResolveAssemblyReference.cache
+C:\Users\darshil.hirpara\Desktop\Darshil Old System\Projects\ConsoleApplication4\trial\obj\Debug\trial.exe
+C:\Users\darshil.hirpara\Desktop\Darshil Old System\Projects\ConsoleApplication4\trial\obj\Debug\trial.pdb

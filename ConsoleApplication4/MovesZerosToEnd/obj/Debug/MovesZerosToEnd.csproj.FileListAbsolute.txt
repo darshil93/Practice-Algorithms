@@ -1,0 +1,6 @@
+C:\Users\darshil.hirpara\Documents\Visual Studio 2015\Projects\ConsoleApplication4\MovesZerosToEnd\bin\Debug\MovesZerosToEnd.exe.config
+C:\Users\darshil.hirpara\Documents\Visual Studio 2015\Projects\ConsoleApplication4\MovesZerosToEnd\bin\Debug\MovesZerosToEnd.exe
+C:\Users\darshil.hirpara\Documents\Visual Studio 2015\Projects\ConsoleApplication4\MovesZerosToEnd\bin\Debug\MovesZerosToEnd.pdb
+C:\Users\darshil.hirpara\Documents\Visual Studio 2015\Projects\ConsoleApplication4\MovesZerosToEnd\obj\Debug\MovesZerosToEnd.csprojResolveAssemblyReference.cache
+C:\Users\darshil.hirpara\Documents\Visual Studio 2015\Projects\ConsoleApplication4\MovesZerosToEnd\obj\Debug\MovesZerosToEnd.exe
+C:\Users\darshil.hirpara\Documents\Visual Studio 2015\Projects\ConsoleApplication4\MovesZerosToEnd\obj\Debug\MovesZerosToEnd.pdb
