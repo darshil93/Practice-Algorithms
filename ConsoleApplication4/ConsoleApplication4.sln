@@ -105,6 +105,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountingBits", "CountingBit
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleElementinArray", "SingleElementinArray\SingleElementinArray.csproj", "{DB58386A-BA06-4EF0-A21B-6A01C08C5AEE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Merge2SortedArray", "Merge2SortedArray\Merge2SortedArray.csproj", "{8B58BCA7-4782-4AC4-8B3C-5E22710A5A05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdasCSharp", "LambdasCSharp\LambdasCSharp.csproj", "{6BCFB5D0-0A50-4F94-AA0E-15383B065CAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxProductSubArray", "MaxProductSubArray\MaxProductSubArray.csproj", "{C7BB4B45-AB9D-4BB5-A9CD-D57B851BC25F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitCount", "BitCount\BitCount.csproj", "{91747F09-23CE-4687-B255-96EF34EBDA0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromeLinkedList", "PalindromeLinkedList\PalindromeLinkedList.csproj", "{48183062-2B86-4C2E-9409-5E4B3004A8BF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -315,6 +325,26 @@ Global
 		{DB58386A-BA06-4EF0-A21B-6A01C08C5AEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB58386A-BA06-4EF0-A21B-6A01C08C5AEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB58386A-BA06-4EF0-A21B-6A01C08C5AEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B58BCA7-4782-4AC4-8B3C-5E22710A5A05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B58BCA7-4782-4AC4-8B3C-5E22710A5A05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B58BCA7-4782-4AC4-8B3C-5E22710A5A05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B58BCA7-4782-4AC4-8B3C-5E22710A5A05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BCFB5D0-0A50-4F94-AA0E-15383B065CAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BCFB5D0-0A50-4F94-AA0E-15383B065CAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BCFB5D0-0A50-4F94-AA0E-15383B065CAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BCFB5D0-0A50-4F94-AA0E-15383B065CAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7BB4B45-AB9D-4BB5-A9CD-D57B851BC25F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7BB4B45-AB9D-4BB5-A9CD-D57B851BC25F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7BB4B45-AB9D-4BB5-A9CD-D57B851BC25F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7BB4B45-AB9D-4BB5-A9CD-D57B851BC25F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91747F09-23CE-4687-B255-96EF34EBDA0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91747F09-23CE-4687-B255-96EF34EBDA0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91747F09-23CE-4687-B255-96EF34EBDA0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91747F09-23CE-4687-B255-96EF34EBDA0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48183062-2B86-4C2E-9409-5E4B3004A8BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48183062-2B86-4C2E-9409-5E4B3004A8BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48183062-2B86-4C2E-9409-5E4B3004A8BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48183062-2B86-4C2E-9409-5E4B3004A8BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
