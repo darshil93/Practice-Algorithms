@@ -4,3 +4,9 @@ C:\Users\darshil.hirpara\Documents\Visual Studio 2015\Projects\ConsoleApplicatio
 C:\Users\darshil.hirpara\Documents\Visual Studio 2015\Projects\ConsoleApplication4\MinimumPathSumMatrix\obj\Debug\MinimumPathSumMatrix.csprojResolveAssemblyReference.cache
 C:\Users\darshil.hirpara\Documents\Visual Studio 2015\Projects\ConsoleApplication4\MinimumPathSumMatrix\obj\Debug\MinimumPathSumMatrix.exe
 C:\Users\darshil.hirpara\Documents\Visual Studio 2015\Projects\ConsoleApplication4\MinimumPathSumMatrix\obj\Debug\MinimumPathSumMatrix.pdb
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\MinimumPathSumMatrix\bin\Debug\MinimumPathSumMatrix.exe.config
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\MinimumPathSumMatrix\bin\Debug\MinimumPathSumMatrix.exe
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\MinimumPathSumMatrix\bin\Debug\MinimumPathSumMatrix.pdb
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\MinimumPathSumMatrix\obj\Debug\MinimumPathSumMatrix.csprojResolveAssemblyReference.cache
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\MinimumPathSumMatrix\obj\Debug\MinimumPathSumMatrix.exe
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\MinimumPathSumMatrix\obj\Debug\MinimumPathSumMatrix.pdb

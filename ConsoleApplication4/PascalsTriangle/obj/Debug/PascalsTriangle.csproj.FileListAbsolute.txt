@@ -4,3 +4,6 @@ C:\Users\darshil.hirpara\Documents\Visual Studio 2015\Projects\ConsoleApplicatio
 C:\Users\darshil.hirpara\Documents\Visual Studio 2015\Projects\ConsoleApplication4\PascalsTriangle\obj\Debug\PascalsTriangle.csprojResolveAssemblyReference.cache
 C:\Users\darshil.hirpara\Documents\Visual Studio 2015\Projects\ConsoleApplication4\PascalsTriangle\obj\Debug\PascalsTriangle.exe
 C:\Users\darshil.hirpara\Documents\Visual Studio 2015\Projects\ConsoleApplication4\PascalsTriangle\obj\Debug\PascalsTriangle.pdb
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\PascalsTriangle\obj\Debug\PascalsTriangle.csprojResolveAssemblyReference.cache
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\PascalsTriangle\obj\Debug\PascalsTriangle.exe
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\PascalsTriangle\obj\Debug\PascalsTriangle.pdb

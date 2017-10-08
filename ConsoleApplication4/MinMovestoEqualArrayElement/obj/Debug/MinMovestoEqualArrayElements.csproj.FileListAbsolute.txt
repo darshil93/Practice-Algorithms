@@ -1,0 +1,6 @@
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\MinMovestoEqualArrayElement\bin\Debug\ConsoleApplication9.exe.config
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\MinMovestoEqualArrayElement\bin\Debug\ConsoleApplication9.exe
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\MinMovestoEqualArrayElement\bin\Debug\ConsoleApplication9.pdb
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\MinMovestoEqualArrayElement\obj\Debug\MinMovestoEqualArrayElements.csprojResolveAssemblyReference.cache
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\MinMovestoEqualArrayElement\obj\Debug\ConsoleApplication9.exe
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\MinMovestoEqualArrayElement\obj\Debug\ConsoleApplication9.pdb

@@ -1,1 +1,6 @@
 C:\Users\darshil.hirpara\Documents\Visual Studio 2015\Projects\ConsoleApplication4\LowestCommonAncestorBST\bin\Debug\LowestCommonAncestorBST.exe.config
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\LowestCommonAncestorBST\bin\Debug\LowestCommonAncestorBST.exe.config
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\LowestCommonAncestorBST\bin\Debug\LowestCommonAncestorBST.exe
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\LowestCommonAncestorBST\bin\Debug\LowestCommonAncestorBST.pdb
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\LowestCommonAncestorBST\obj\Debug\LowestCommonAncestorBST.exe
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\LowestCommonAncestorBST\obj\Debug\LowestCommonAncestorBST.pdb

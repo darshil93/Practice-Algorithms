@@ -1,1 +1,6 @@
 C:\Users\darshil.hirpara\Documents\Visual Studio 2015\Projects\ConsoleApplication4\MajorityElementII\bin\Debug\MajorityElementII.exe.config
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\MajorityElementII\bin\Debug\MajorityElementII.exe.config
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\MajorityElementII\bin\Debug\MajorityElementII.exe
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\MajorityElementII\bin\Debug\MajorityElementII.pdb
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\MajorityElementII\obj\Debug\MajorityElementII.exe
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\MajorityElementII\obj\Debug\MajorityElementII.pdb

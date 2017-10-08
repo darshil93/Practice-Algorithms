@@ -9,3 +9,9 @@ C:\Users\darshil.hirpara\Desktop\Darshil Old System\Projects\ConsoleApplication4
 C:\Users\darshil.hirpara\Desktop\Darshil Old System\Projects\ConsoleApplication4\SortCharactersByFrequency\bin\Debug\SortCharactersByFrequency.exe
 C:\Users\darshil.hirpara\Desktop\Darshil Old System\Projects\ConsoleApplication4\SortCharactersByFrequency\bin\Debug\SortCharactersByFrequency.pdb
 C:\Users\darshil.hirpara\Desktop\Darshil Old System\Projects\ConsoleApplication4\SortCharactersByFrequency\obj\Debug\SortCharactersByFrequency.csprojResolveAssemblyReference.cache
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\SortCharactersByFrequency\bin\Debug\SortCharactersByFrequency.exe.config
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\SortCharactersByFrequency\bin\Debug\SortCharactersByFrequency.exe
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\SortCharactersByFrequency\bin\Debug\SortCharactersByFrequency.pdb
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\SortCharactersByFrequency\obj\Debug\SortCharactersByFrequency.csprojResolveAssemblyReference.cache
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\SortCharactersByFrequency\obj\Debug\SortCharactersByFrequency.exe
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\SortCharactersByFrequency\obj\Debug\SortCharactersByFrequency.pdb

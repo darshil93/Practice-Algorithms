@@ -4,3 +4,9 @@ C:\Users\darshil.hirpara\Documents\Visual Studio 2015\Projects\ConsoleApplicatio
 C:\Users\darshil.hirpara\Documents\Visual Studio 2015\Projects\ConsoleApplication4\ZigZagConversion\obj\Debug\ZigZagConversion.csprojResolveAssemblyReference.cache
 C:\Users\darshil.hirpara\Documents\Visual Studio 2015\Projects\ConsoleApplication4\ZigZagConversion\obj\Debug\ZigZagConversion.exe
 C:\Users\darshil.hirpara\Documents\Visual Studio 2015\Projects\ConsoleApplication4\ZigZagConversion\obj\Debug\ZigZagConversion.pdb
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\ZigZagConversion\bin\Debug\ZigZagConversion.exe.config
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\ZigZagConversion\bin\Debug\ZigZagConversion.exe
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\ZigZagConversion\bin\Debug\ZigZagConversion.pdb
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\ZigZagConversion\obj\Debug\ZigZagConversion.csprojResolveAssemblyReference.cache
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\ZigZagConversion\obj\Debug\ZigZagConversion.exe
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\ZigZagConversion\obj\Debug\ZigZagConversion.pdb

@@ -1,3 +1,9 @@
 C:\Users\darshil.hirpara\Documents\Visual Studio 2015\Projects\ConsoleApplication4\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
 C:\Users\darshil.hirpara\Documents\Visual Studio 2015\Projects\ConsoleApplication4\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
 C:\Users\darshil.hirpara\Documents\Visual Studio 2015\Projects\ConsoleApplication4\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\LongestPalindromicSubstring\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\LongestPalindromicSubstring\bin\Debug\ConsoleApplication2.exe
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\LongestPalindromicSubstring\bin\Debug\ConsoleApplication2.pdb
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\LongestPalindromicSubstring\obj\Debug\LongestPalindromicSubstring.csprojResolveAssemblyReference.cache
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\LongestPalindromicSubstring\obj\Debug\ConsoleApplication2.exe
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\LongestPalindromicSubstring\obj\Debug\ConsoleApplication2.pdb

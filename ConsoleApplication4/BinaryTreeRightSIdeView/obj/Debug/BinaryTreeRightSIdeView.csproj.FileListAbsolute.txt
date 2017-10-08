@@ -1,1 +1,6 @@
 C:\Users\darshil.hirpara\Documents\Visual Studio 2015\Projects\ConsoleApplication4\BinaryTreeRightSIdeView\bin\Debug\BinaryTreeRightSIdeView.exe.config
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\BinaryTreeRightSIdeView\bin\Debug\BinaryTreeRightSIdeView.exe.config
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\BinaryTreeRightSIdeView\bin\Debug\BinaryTreeRightSIdeView.exe
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\BinaryTreeRightSIdeView\bin\Debug\BinaryTreeRightSIdeView.pdb
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\BinaryTreeRightSIdeView\obj\Debug\BinaryTreeRightSIdeView.exe
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\BinaryTreeRightSIdeView\obj\Debug\BinaryTreeRightSIdeView.pdb

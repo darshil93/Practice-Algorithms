@@ -1,0 +1,6 @@
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\ConsoleApplication1\obj\Debug\InheritanceTry.csprojResolveAssemblyReference.cache
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

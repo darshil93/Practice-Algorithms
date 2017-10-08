@@ -1,0 +1,5 @@
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\PalindromeLinkedList\bin\Debug\PalindromeLinkedList.exe.config
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\PalindromeLinkedList\bin\Debug\PalindromeLinkedList.exe
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\PalindromeLinkedList\bin\Debug\PalindromeLinkedList.pdb
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\PalindromeLinkedList\obj\Debug\PalindromeLinkedList.exe
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\PalindromeLinkedList\obj\Debug\PalindromeLinkedList.pdb

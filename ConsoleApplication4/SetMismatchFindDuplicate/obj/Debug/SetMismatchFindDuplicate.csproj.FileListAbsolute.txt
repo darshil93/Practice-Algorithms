@@ -4,3 +4,9 @@ C:\Users\darshil.hirpara\Documents\Visual Studio 2015\Projects\ConsoleApplicatio
 C:\Users\darshil.hirpara\Documents\Visual Studio 2015\Projects\ConsoleApplication4\SetMismatchFindDuplicate\obj\Debug\SetMismatchFindDuplicate.exe
 C:\Users\darshil.hirpara\Documents\Visual Studio 2015\Projects\ConsoleApplication4\SetMismatchFindDuplicate\obj\Debug\SetMismatchFindDuplicate.pdb
 C:\Users\darshil.hirpara\Documents\Visual Studio 2015\Projects\ConsoleApplication4\SetMismatchFindDuplicate\obj\Debug\SetMismatchFindDuplicate.csprojResolveAssemblyReference.cache
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\SetMismatchFindDuplicate\bin\Debug\SetMismatchFindDuplicate.exe.config
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\SetMismatchFindDuplicate\bin\Debug\SetMismatchFindDuplicate.exe
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\SetMismatchFindDuplicate\bin\Debug\SetMismatchFindDuplicate.pdb
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\SetMismatchFindDuplicate\obj\Debug\SetMismatchFindDuplicate.csprojResolveAssemblyReference.cache
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\SetMismatchFindDuplicate\obj\Debug\SetMismatchFindDuplicate.exe
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\SetMismatchFindDuplicate\obj\Debug\SetMismatchFindDuplicate.pdb

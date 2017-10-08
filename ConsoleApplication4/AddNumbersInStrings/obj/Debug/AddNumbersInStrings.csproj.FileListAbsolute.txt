@@ -1,0 +1,6 @@
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\AddNumbersInStrings\bin\Debug\AddNumbersInStrings.exe.config
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\AddNumbersInStrings\bin\Debug\AddNumbersInStrings.exe
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\AddNumbersInStrings\bin\Debug\AddNumbersInStrings.pdb
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\AddNumbersInStrings\obj\Debug\AddNumbersInStrings.csprojResolveAssemblyReference.cache
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\AddNumbersInStrings\obj\Debug\AddNumbersInStrings.exe
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\AddNumbersInStrings\obj\Debug\AddNumbersInStrings.pdb

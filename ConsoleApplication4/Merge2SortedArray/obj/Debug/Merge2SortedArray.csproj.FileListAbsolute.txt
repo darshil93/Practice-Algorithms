@@ -4,3 +4,9 @@ C:\Users\darshil.hirpara\Source\Repos\Practice-Algorithms\ConsoleApplication4\Me
 C:\Users\darshil.hirpara\Source\Repos\Practice-Algorithms\ConsoleApplication4\Merge2SortedArray\obj\Debug\Merge2SortedArray.csprojResolveAssemblyReference.cache
 C:\Users\darshil.hirpara\Source\Repos\Practice-Algorithms\ConsoleApplication4\Merge2SortedArray\obj\Debug\Merge2SortedArray.exe
 C:\Users\darshil.hirpara\Source\Repos\Practice-Algorithms\ConsoleApplication4\Merge2SortedArray\obj\Debug\Merge2SortedArray.pdb
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\Merge2SortedArray\bin\Debug\Merge2SortedArray.exe.config
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\Merge2SortedArray\bin\Debug\Merge2SortedArray.exe
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\Merge2SortedArray\bin\Debug\Merge2SortedArray.pdb
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\Merge2SortedArray\obj\Debug\Merge2SortedArray.csprojResolveAssemblyReference.cache
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\Merge2SortedArray\obj\Debug\Merge2SortedArray.exe
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\Merge2SortedArray\obj\Debug\Merge2SortedArray.pdb

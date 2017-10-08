@@ -1,1 +1,6 @@
 C:\Users\darshil.hirpara\Documents\Visual Studio 2015\Projects\ConsoleApplication4\MergeKSortedLists\bin\Debug\MergeKSortedLists.exe.config
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\MergeKSortedLists\bin\Debug\MergeKSortedLists.exe.config
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\MergeKSortedLists\bin\Debug\MergeKSortedLists.exe
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\MergeKSortedLists\bin\Debug\MergeKSortedLists.pdb
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\MergeKSortedLists\obj\Debug\MergeKSortedLists.exe
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\MergeKSortedLists\obj\Debug\MergeKSortedLists.pdb

@@ -1,0 +1,6 @@
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\SubsetArraythatEqualsTarget\bin\Debug\ConsoleApplication4.exe.config
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\SubsetArraythatEqualsTarget\bin\Debug\ConsoleApplication4.exe
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\SubsetArraythatEqualsTarget\bin\Debug\ConsoleApplication4.pdb
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\SubsetArraythatEqualsTarget\obj\Debug\SubsetArraythatEqualsTarget.csprojResolveAssemblyReference.cache
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\SubsetArraythatEqualsTarget\obj\Debug\ConsoleApplication4.exe
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\SubsetArraythatEqualsTarget\obj\Debug\ConsoleApplication4.pdb

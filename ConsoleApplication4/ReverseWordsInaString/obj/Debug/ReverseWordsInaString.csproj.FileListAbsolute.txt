@@ -4,3 +4,9 @@ C:\Users\darshil.hirpara\Documents\Visual Studio 2015\Projects\ConsoleApplicatio
 C:\Users\darshil.hirpara\Documents\Visual Studio 2015\Projects\ConsoleApplication4\ReverseWordsInaString\obj\Debug\ReverseWordsInaString.csprojResolveAssemblyReference.cache
 C:\Users\darshil.hirpara\Documents\Visual Studio 2015\Projects\ConsoleApplication4\ReverseWordsInaString\obj\Debug\ReverseWordsInaString.exe
 C:\Users\darshil.hirpara\Documents\Visual Studio 2015\Projects\ConsoleApplication4\ReverseWordsInaString\obj\Debug\ReverseWordsInaString.pdb
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\ReverseWordsInaString\bin\Debug\ReverseWordsInaString.exe.config
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\ReverseWordsInaString\bin\Debug\ReverseWordsInaString.exe
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\ReverseWordsInaString\bin\Debug\ReverseWordsInaString.pdb
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\ReverseWordsInaString\obj\Debug\ReverseWordsInaString.csprojResolveAssemblyReference.cache
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\ReverseWordsInaString\obj\Debug\ReverseWordsInaString.exe
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\ReverseWordsInaString\obj\Debug\ReverseWordsInaString.pdb

@@ -4,3 +4,9 @@ C:\Users\darshil.hirpara\Desktop\Darshil Old System\Projects\ConsoleApplication4
 C:\Users\darshil.hirpara\Desktop\Darshil Old System\Projects\ConsoleApplication4\CME\obj\Debug\CME.csprojResolveAssemblyReference.cache
 C:\Users\darshil.hirpara\Desktop\Darshil Old System\Projects\ConsoleApplication4\CME\obj\Debug\CME.exe
 C:\Users\darshil.hirpara\Desktop\Darshil Old System\Projects\ConsoleApplication4\CME\obj\Debug\CME.pdb
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\CME\bin\Debug\CME.exe.config
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\CME\bin\Debug\CME.exe
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\CME\bin\Debug\CME.pdb
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\CME\obj\Debug\CME.csprojResolveAssemblyReference.cache
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\CME\obj\Debug\CME.exe
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\CME\obj\Debug\CME.pdb

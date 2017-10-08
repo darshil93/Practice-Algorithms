@@ -4,3 +4,9 @@ C:\Users\darshil.hirpara\Documents\Visual Studio 2015\Projects\ConsoleApplicatio
 C:\Users\darshil.hirpara\Documents\Visual Studio 2015\Projects\ConsoleApplication4\LetterCombinationsofPhoneNumber\bin\Debug\LetterCombinationsofPhoneNumber.pdb
 C:\Users\darshil.hirpara\Documents\Visual Studio 2015\Projects\ConsoleApplication4\LetterCombinationsofPhoneNumber\obj\Debug\LetterCombinationsofPhoneNumber.exe
 C:\Users\darshil.hirpara\Documents\Visual Studio 2015\Projects\ConsoleApplication4\LetterCombinationsofPhoneNumber\obj\Debug\LetterCombinationsofPhoneNumber.pdb
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\LetterCombinationsofPhoneNumber\bin\Debug\LetterCombinationsofPhoneNumber.exe.config
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\LetterCombinationsofPhoneNumber\bin\Debug\LetterCombinationsofPhoneNumber.exe
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\LetterCombinationsofPhoneNumber\bin\Debug\LetterCombinationsofPhoneNumber.pdb
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\LetterCombinationsofPhoneNumber\obj\Debug\LetterCombinationsofPhoneNumber.csprojResolveAssemblyReference.cache
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\LetterCombinationsofPhoneNumber\obj\Debug\LetterCombinationsofPhoneNumber.exe
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\LetterCombinationsofPhoneNumber\obj\Debug\LetterCombinationsofPhoneNumber.pdb

@@ -3,19 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubsetArraythatEqualsTarget", "ConsoleApplication4\SubsetArraythatEqualsTarget.csproj", "{CDC8460A-99BA-4F1D-AE78-EEAB1EE2AC05}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubsetArraythatEqualsTarget", "SubsetArraythatEqualsTarget\SubsetArraythatEqualsTarget.csproj", "{CDC8460A-99BA-4F1D-AE78-EEAB1EE2AC05}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritanceTry", "ConsoleApplication1\InheritanceTry.csproj", "{772A7A06-FE27-4EA7-BEE8-3F0073106D79}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestPalindromicSubstring", "ConsoleApplication2\LongestPalindromicSubstring.csproj", "{DC0EDDA4-7C82-4D22-B84F-D30D577E928B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestPalindromicSubstring", "LongestPalindromicSubstring\LongestPalindromicSubstring.csproj", "{DC0EDDA4-7C82-4D22-B84F-D30D577E928B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraywithDigitsandOperators", "ConsoleApplication6\ArraywithDigitsandOperators.csproj", "{F1A31161-946E-42C2-9AD8-A1BF33E6FA81}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraywithDigitsandOperators", "ArraywithDigitsandOperators\ArraywithDigitsandOperators.csproj", "{F1A31161-946E-42C2-9AD8-A1BF33E6FA81}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinMovestoEqualArrayElements", "ConsoleApplication9\MinMovestoEqualArrayElements.csproj", "{FDCCAB04-834A-4514-B420-29B95624FAAE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinMovestoEqualArrayElements", "MinMovestoEqualArrayElement\MinMovestoEqualArrayElements.csproj", "{FDCCAB04-834A-4514-B420-29B95624FAAE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTreeAndTraversal", "ConsoleApplication10\BinaryTreeAndTraversal.csproj", "{FCCE23B7-2847-4399-BE7C-593FF3FB0A7B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTreeAndTraversal", "BinaryTreeAndTraversal\BinaryTreeAndTraversal.csproj", "{FCCE23B7-2847-4399-BE7C-593FF3FB0A7B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BSTSumOfTwoNo-Target", "ConsoleApplication11\BSTSumOfTwoNo-Target.csproj", "{89D56727-D2CD-465B-8CF2-5A8490A85789}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BSTSumOfTwoNo-Target", "BSTSumofTwoNumbers\BSTSumOfTwoNo-Target.csproj", "{89D56727-D2CD-465B-8CF2-5A8490A85789}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HammingDistance", "HammingDistance\HammingDistance.csproj", "{F6FF61ED-B832-40E3-8DF8-72732F93EF16}"
 EndProject
@@ -89,7 +89,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Amazon", "Amazon\Amazon.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringReversal", "trial\StringReversal.csproj", "{397F45B6-56BB-4531-9981-2DA1FB9C5D9C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountMaxStringsInPara", "ConsoleApplication13\CountMaxStringsInPara.csproj", "{EC12F3DD-BA53-47BF-A409-A681594D9C35}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountMaxStringsInPara", "CountMaxStringsInPara\CountMaxStringsInPara.csproj", "{EC12F3DD-BA53-47BF-A409-A681594D9C35}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelSheetToColNo", "DisplayRowNumberBasedOnExcelCol\ExcelSheetToColNo.csproj", "{682745A9-0AE9-4BFA-B9F9-281E9625AE33}"
 EndProject
@@ -114,6 +114,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitCount", "BitCount\BitCount.csproj", "{91747F09-23CE-4687-B255-96EF34EBDA0B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromeLinkedList", "PalindromeLinkedList\PalindromeLinkedList.csproj", "{48183062-2B86-4C2E-9409-5E4B3004A8BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddNumbersInStrings", "AddNumbersInStrings\AddNumbersInStrings.csproj", "{0742A897-CA07-4181-9C27-064325BF7286}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -345,6 +347,10 @@ Global
 		{48183062-2B86-4C2E-9409-5E4B3004A8BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{48183062-2B86-4C2E-9409-5E4B3004A8BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{48183062-2B86-4C2E-9409-5E4B3004A8BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0742A897-CA07-4181-9C27-064325BF7286}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0742A897-CA07-4181-9C27-064325BF7286}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0742A897-CA07-4181-9C27-064325BF7286}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0742A897-CA07-4181-9C27-064325BF7286}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

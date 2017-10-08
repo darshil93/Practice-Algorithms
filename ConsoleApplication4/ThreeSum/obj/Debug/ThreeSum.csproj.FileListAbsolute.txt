@@ -10,3 +10,9 @@ C:\Users\darshil.hirpara\Desktop\Darshil Old System\Projects\ConsoleApplication4
 C:\Users\darshil.hirpara\Desktop\Darshil Old System\Projects\ConsoleApplication4\ThreeSum\bin\Debug\ThreeSum.exe
 C:\Users\darshil.hirpara\Desktop\Darshil Old System\Projects\ConsoleApplication4\ThreeSum\bin\Debug\ThreeSum.pdb
 C:\Users\darshil.hirpara\Desktop\Darshil Old System\Projects\ConsoleApplication4\ThreeSum\obj\Debug\ThreeSum.csprojResolveAssemblyReference.cache
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\ThreeSum\bin\Debug\ThreeSum.exe.config
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\ThreeSum\bin\Debug\ThreeSum.exe
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\ThreeSum\bin\Debug\ThreeSum.pdb
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\ThreeSum\obj\Debug\ThreeSum.csprojResolveAssemblyReference.cache
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\ThreeSum\obj\Debug\ThreeSum.exe
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\ThreeSum\obj\Debug\ThreeSum.pdb

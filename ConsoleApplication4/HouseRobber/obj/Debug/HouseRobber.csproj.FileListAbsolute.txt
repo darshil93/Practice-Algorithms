@@ -4,3 +4,9 @@ C:\Users\darshil.hirpara\Desktop\Darshil Old System\Projects\ConsoleApplication4
 C:\Users\darshil.hirpara\Desktop\Darshil Old System\Projects\ConsoleApplication4\HouseRobber\obj\Debug\HouseRobber.csprojResolveAssemblyReference.cache
 C:\Users\darshil.hirpara\Desktop\Darshil Old System\Projects\ConsoleApplication4\HouseRobber\obj\Debug\HouseRobber.exe
 C:\Users\darshil.hirpara\Desktop\Darshil Old System\Projects\ConsoleApplication4\HouseRobber\obj\Debug\HouseRobber.pdb
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\HouseRobber\bin\Debug\HouseRobber.exe.config
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\HouseRobber\bin\Debug\HouseRobber.exe
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\HouseRobber\bin\Debug\HouseRobber.pdb
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\HouseRobber\obj\Debug\HouseRobber.csprojResolveAssemblyReference.cache
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\HouseRobber\obj\Debug\HouseRobber.exe
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\HouseRobber\obj\Debug\HouseRobber.pdb

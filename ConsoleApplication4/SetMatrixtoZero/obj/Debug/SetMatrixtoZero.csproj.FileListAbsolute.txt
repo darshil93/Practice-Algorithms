@@ -4,3 +4,9 @@ C:\Users\darshil.hirpara\Documents\Visual Studio 2015\Projects\ConsoleApplicatio
 C:\Users\darshil.hirpara\Documents\Visual Studio 2015\Projects\ConsoleApplication4\SetMatrixtoZero\bin\Debug\SetMatrixtoZero.pdb
 C:\Users\darshil.hirpara\Documents\Visual Studio 2015\Projects\ConsoleApplication4\SetMatrixtoZero\obj\Debug\SetMatrixtoZero.exe
 C:\Users\darshil.hirpara\Documents\Visual Studio 2015\Projects\ConsoleApplication4\SetMatrixtoZero\obj\Debug\SetMatrixtoZero.pdb
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\SetMatrixtoZero\bin\Debug\SetMatrixtoZero.exe.config
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\SetMatrixtoZero\bin\Debug\SetMatrixtoZero.exe
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\SetMatrixtoZero\bin\Debug\SetMatrixtoZero.pdb
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\SetMatrixtoZero\obj\Debug\SetMatrixtoZero.csprojResolveAssemblyReference.cache
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\SetMatrixtoZero\obj\Debug\SetMatrixtoZero.exe
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\SetMatrixtoZero\obj\Debug\SetMatrixtoZero.pdb

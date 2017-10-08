@@ -4,3 +4,9 @@ C:\Users\darshil.hirpara\Desktop\Darshil Old System\Projects\ConsoleApplication4
 C:\Users\darshil.hirpara\Desktop\Darshil Old System\Projects\ConsoleApplication4\CompressDecompressString\obj\Debug\CompressDecompressString.csprojResolveAssemblyReference.cache
 C:\Users\darshil.hirpara\Desktop\Darshil Old System\Projects\ConsoleApplication4\CompressDecompressString\obj\Debug\CompressDecompressString.exe
 C:\Users\darshil.hirpara\Desktop\Darshil Old System\Projects\ConsoleApplication4\CompressDecompressString\obj\Debug\CompressDecompressString.pdb
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\CompressDecompressString\bin\Debug\CompressDecompressString.exe.config
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\CompressDecompressString\bin\Debug\CompressDecompressString.exe
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\CompressDecompressString\bin\Debug\CompressDecompressString.pdb
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\CompressDecompressString\obj\Debug\CompressDecompressString.csprojResolveAssemblyReference.cache
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\CompressDecompressString\obj\Debug\CompressDecompressString.exe
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\CompressDecompressString\obj\Debug\CompressDecompressString.pdb

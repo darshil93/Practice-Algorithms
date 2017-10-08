@@ -4,3 +4,6 @@ C:\Users\darshil.hirpara\Documents\Visual Studio 2015\Projects\ConsoleApplicatio
 C:\Users\darshil.hirpara\Documents\Visual Studio 2015\Projects\ConsoleApplication4\BalancedBinaryTree\obj\Debug\BalancedBinaryTree.csprojResolveAssemblyReference.cache
 C:\Users\darshil.hirpara\Documents\Visual Studio 2015\Projects\ConsoleApplication4\BalancedBinaryTree\obj\Debug\BalancedBinaryTree.exe
 C:\Users\darshil.hirpara\Documents\Visual Studio 2015\Projects\ConsoleApplication4\BalancedBinaryTree\obj\Debug\BalancedBinaryTree.pdb
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\BalancedBinaryTree\obj\Debug\BalancedBinaryTree.csprojResolveAssemblyReference.cache
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\BalancedBinaryTree\obj\Debug\BalancedBinaryTree.exe
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\BalancedBinaryTree\obj\Debug\BalancedBinaryTree.pdb
