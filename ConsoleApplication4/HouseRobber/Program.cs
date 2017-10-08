@@ -26,5 +26,6 @@ namespace HouseRobber
             }
             return Math.Max(rob, notrob);
         }
+        public static int rob2() { return 0; }
     }
 }
