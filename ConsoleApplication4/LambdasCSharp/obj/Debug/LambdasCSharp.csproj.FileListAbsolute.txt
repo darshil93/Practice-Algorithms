@@ -4,3 +4,6 @@ C:\Users\darshil.hirpara\Source\Repos\Practice-Algorithms\ConsoleApplication4\La
 C:\Users\darshil.hirpara\Source\Repos\Practice-Algorithms\ConsoleApplication4\LambdasCSharp\obj\Debug\LambdasCSharp.csprojResolveAssemblyReference.cache
 C:\Users\darshil.hirpara\Source\Repos\Practice-Algorithms\ConsoleApplication4\LambdasCSharp\obj\Debug\LambdasCSharp.exe
 C:\Users\darshil.hirpara\Source\Repos\Practice-Algorithms\ConsoleApplication4\LambdasCSharp\obj\Debug\LambdasCSharp.pdb
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\LambdasCSharp\bin\Debug\LambdasCSharp.exe.config
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\LambdasCSharp\obj\Debug\LambdasCSharp.exe
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\LambdasCSharp\obj\Debug\LambdasCSharp.pdb
