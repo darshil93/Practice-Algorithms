@@ -1,0 +1,6 @@
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\CountDigitOne\bin\Debug\CountDigitOne.exe.config
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\CountDigitOne\bin\Debug\CountDigitOne.exe
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\CountDigitOne\bin\Debug\CountDigitOne.pdb
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\CountDigitOne\obj\Debug\CountDigitOne.csprojResolveAssemblyReference.cache
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\CountDigitOne\obj\Debug\CountDigitOne.exe
+C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\CountDigitOne\obj\Debug\CountDigitOne.pdb
