@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-//Incorrect solution
+
 namespace LargestNumberMadeFromArray
 {
     class Program
@@ -13,8 +13,12 @@ namespace LargestNumberMadeFromArray
         }
         public static string LargestNumber(int[] nums)
         {
-            return null;
             
+            if (nums.All(c => c == 0)) return "0";
+
+            Array.Sort(nums, (a, b) => $"{b}{a}".CompareTo($"{a}{b}"));
+
+            return string.Join("", nums);
         }
     }
 }

@@ -4,3 +4,6 @@ C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplicati
 C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\RepeatedSubstringPattern\obj\Debug\RepeatedSubstringPattern.csprojResolveAssemblyReference.cache
 C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\RepeatedSubstringPattern\obj\Debug\RepeatedSubstringPattern.exe
 C:\Users\darshil.hirpara\Desktop\Algorithms\Practice-Algorithms\ConsoleApplication4\RepeatedSubstringPattern\obj\Debug\RepeatedSubstringPattern.pdb
+C:\Users\darshil.hirpara\Desktop\Algo\Practice-Algorithms\ConsoleApplication4\RepeatedSubstringPattern\bin\Debug\RepeatedSubstringPattern.exe.config
+C:\Users\darshil.hirpara\Desktop\Algo\Practice-Algorithms\ConsoleApplication4\RepeatedSubstringPattern\obj\Debug\RepeatedSubstringPattern.exe
+C:\Users\darshil.hirpara\Desktop\Algo\Practice-Algorithms\ConsoleApplication4\RepeatedSubstringPattern\obj\Debug\RepeatedSubstringPattern.pdb
