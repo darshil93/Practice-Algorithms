@@ -1,0 +1,6 @@
+C:\Users\darshil.hirpara\Desktop\Algo\Practice-Algorithms\ConsoleApplication4\AddBoldTagToString\bin\Debug\AddBoldTagToString.exe.config
+C:\Users\darshil.hirpara\Desktop\Algo\Practice-Algorithms\ConsoleApplication4\AddBoldTagToString\bin\Debug\AddBoldTagToString.exe
+C:\Users\darshil.hirpara\Desktop\Algo\Practice-Algorithms\ConsoleApplication4\AddBoldTagToString\bin\Debug\AddBoldTagToString.pdb
+C:\Users\darshil.hirpara\Desktop\Algo\Practice-Algorithms\ConsoleApplication4\AddBoldTagToString\obj\Debug\AddBoldTagToString.csprojResolveAssemblyReference.cache
+C:\Users\darshil.hirpara\Desktop\Algo\Practice-Algorithms\ConsoleApplication4\AddBoldTagToString\obj\Debug\AddBoldTagToString.exe
+C:\Users\darshil.hirpara\Desktop\Algo\Practice-Algorithms\ConsoleApplication4\AddBoldTagToString\obj\Debug\AddBoldTagToString.pdb
